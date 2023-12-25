@@ -7,7 +7,7 @@ Beautiful Jekyll was initially developed as a GitHub Pages theme that was meant 
 1. Create a new GitHub repository (or go to an existing repository).
 2. Add remote_theme: ``daattali/beautiful-jekyll@6.0.1`` to your ``_config.yml`` file (remove any previous ``theme`` or ``remote_theme`` parameters that may have been there before).
 3. Go to **Settings**, click on the **Pages** tab on the left side, select “master” (or “main”) in the Branch section, and click **Save**.
-4. Your website will be at ```https://YOURUSERNAME.github.io/REPOSITORY``
+4. Your website will be at ``https://YOURUSERNAME.github.io/REPOSITORY``
 5. Go through Beautiful Jekyll’s ``_config.yml`` file and copy any settings you want to use into your project’s config file.
 6. Some config features will not work immediately because of missing files that you’ll need to copy from Beautiful Jekyll into your project:
     - To enable the tags index page, you need to copy ``tags.html``.
