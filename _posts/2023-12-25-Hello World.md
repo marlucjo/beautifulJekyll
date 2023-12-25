@@ -5,6 +5,6 @@ subtitle: Empezando con Beautiful Jekyll
 cover-img: 
 thumbnail-img:
 share-img: 
-tags: [geojson, mappping]
+tags: [GitHub, Jekyll]
 author: marlucjo
 ---
