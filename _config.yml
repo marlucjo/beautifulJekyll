@@ -22,7 +22,7 @@ author: marlucjo
 ###############################################
 
 navbar-links:
-  About Me: "pages/aboutme"
+  About Me: "/pages/aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
