@@ -5,7 +5,7 @@
 Beautiful Jekyll was initially developed as a GitHub Pages theme that was meant to be used via forking, but several years later GitHub released the remote themes feature that allows you to use a theme on any GitHub repository. For full details, you should read GitHub’s documentation on remote themes, but here is a summary of the steps required:
 
 1. Create a new GitHub repository (or go to an existing repository).
-2. Add remote_theme: ``daattali/beautiful-jekyll@6.0.1`` to your ``_config.yml`` file (remove any previous ``theme`` or ``remote_theme`` parameters that may have been there before).
+2. Add **remote_theme**: ``daattali/beautiful-jekyll@6.0.1`` to your ``_config.yml`` file (remove any previous ``theme`` or ``remote_theme`` parameters that may have been there before).
 3. Go to **Settings**, click on the **Pages** tab on the left side, select “master” (or “main”) in the Branch section, and click **Save**.
 4. Your website will be at ``https://YOURUSERNAME.github.io/REPOSITORY``
 5. Go through Beautiful Jekyll’s ``_config.yml`` file and copy any settings you want to use into your project’s config file.
