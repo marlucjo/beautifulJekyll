@@ -2,7 +2,7 @@
 layout: post
 title: Hello World 
 subtitle: GitHub remote theme allows you to use a theme on any GitHub repository
-cover-img: /assets/img/path.jpg
+cover-img: https://iruelas.files.wordpress.com/2022/05/20220430_2047542735328794992005314.jpg
 thumbnail-img: /img/avatar-icon.png
 share-img: /assets/img/path.jpg
 tags: [GitHub, Jekyll]
