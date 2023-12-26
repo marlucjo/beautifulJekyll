@@ -19,3 +19,32 @@ author: marlucjo
   height="350"
   src="https://componentes.cnig.es/api-core/?controls=scale,backgroundlayers">
 </iframe>
+
+
+<style>
+. container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+}
+
+.container iframe {
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+</style>
+
+<div class="container">
+  <iframe 
+  id="CapaRaster" 
+  title="CapaRaster" 
+  width="800" 
+  height="700"
+  src="https://componentes.cnig.es/api-core/?controls=scale,backgroundlayers"
+  allowfullscreen >
+</iframe>  
+
+</div>
