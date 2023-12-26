@@ -15,7 +15,7 @@ author: marlucjo
 <iframe 
   id="CapaRaster" 
   title="CapaRaster" 
-  width=100% 
+  width="100%" 
   height="700"
   src="https://componentes.cnig.es/api-core/?layers=WMTS*http://www.ign.es/wmts/mapa-raster?*MTN*GoogleMapsCompatible*imagen*true*image/jpeg*true*true*true&center=-1264453.9015709583,4323899.840546544&zoom=5">
 </iframe>
