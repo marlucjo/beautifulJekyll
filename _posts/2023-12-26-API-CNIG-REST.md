@@ -11,30 +11,11 @@ author: marlucjo
 ---
    
      
-<!-- El visualizador añade los controles scale y backgroundlayers al mapa usando la URL del parámetro src del iframe -->
-
-<style>
-. container {
-    position: relative;
-    padding-bottom: 56.25%;
-    height: 0;
-    overflow: hidden;
-}
-
-.container iframe {
-    position: absolute;
-    top:0;
-    left: 0;
-    width: 100%;
-    height: 800;
-</style>
-
-<div class="container">
-  <iframe 
+<!-- El visualizador crea la capa y realiza el centrado usando la URL del parámetro src del iframe -->
+<iframe 
   id="CapaRaster" 
   title="CapaRaster" 
-  src="https://componentes.cnig.es/api-core/?controls=scale,backgroundlayers"
-  allowfullscreen >
-</iframe>  
-
-</div>
+  width=100% 
+  height="700"
+  src="https://componentes.cnig.es/api-core/?layers=WMTS*http://www.ign.es/wmts/mapa-raster?*MTN*GoogleMapsCompatible*imagen*true*image/jpeg*true*true*true&center=-1264453.9015709583,4323899.840546544&zoom=5">
+</iframe>
