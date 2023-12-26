@@ -33,8 +33,6 @@ author: marlucjo
   <iframe 
   id="CapaRaster" 
   title="CapaRaster" 
-  width="800" 
-  height="700"
   src="https://componentes.cnig.es/api-core/?controls=scale,backgroundlayers"
   allowfullscreen >
 </iframe>  
