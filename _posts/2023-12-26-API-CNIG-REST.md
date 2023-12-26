@@ -12,14 +12,6 @@ author: marlucjo
    
      
 <!-- El visualizador añade los controles scale y backgroundlayers al mapa usando la URL del parámetro src del iframe -->
-<iframe 
-  id="CapaRaster" 
-  title="CapaRaster" 
-  width="400" 
-  height="350"
-  src="https://componentes.cnig.es/api-core/?controls=scale,backgroundlayers">
-</iframe>
-
 
 <style>
 . container {
