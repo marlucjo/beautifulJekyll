@@ -3,7 +3,7 @@ layout: post
 title: GitHub remote theme
 subtitle: ... allows you to use a theme on any GitHub repository
 cover-img: /assets/img/path.jpg
-thumbnail-img: https://es.m.wikipedia.org/wiki/Jekyll_(computaci%C3%B3n)#/media/Archivo%3AJekyll_(software)_Logo.png
+thumbnail-img: "/assets/img/avatar-icon.png"
 share-img: /assets/img/path.jpg
 tags: [GitHub, Jekyll]
 author: marlucjo
