@@ -9,12 +9,10 @@ tags: [GitHub, Jekyll]
 author: marlucjo
 ---
 
-[GitHub repository with remote_theme](https://beautifuljekyll.com/getstarted/#install-steps-hard)
 
-Beautiful Jekyll was initially developed as a GitHub Pages theme that was meant to be used 
-via *forking*, but several years later GitHub released the *remote themes* feature that allows
-you to use a theme on any GitHub repository. For full details, you should read GitHub’s 
-documentation on remote themes, but here is a summary of the steps required:
+Beautiful Jekyll was initially developed as a GitHub Pages theme that was meant to be used via *forking*, but several years later GitHub released the *remote themes* feature that allows you to use a theme on any GitHub repository. For full details, you should read GitHub’s documentation on remote themes, but here is a summary of the steps required:
+
+### [GitHub repository with remote_theme](https://beautifuljekyll.com/getstarted/#install-steps-hard)
 
 1. Create a new GitHub repository (or go to an existing repository).
 2. Add **remote_theme**: ``daattali/beautiful-jekyll@6.0.1`` to your ``_config.yml`` file (remove any previous ``theme`` or ``remote_theme`` parameters that may have been there before).
