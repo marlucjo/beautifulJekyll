@@ -11,7 +11,7 @@ author: marlucjo
 
 Una [**API-REST**](https://mannhowie.com/rest-api) (*Application Programming Interface - Representational State Transfer*) es un conjunto de reglas y protocolos que permiten la comunicación entre diferentes aplicaciones a través de la red.
 
-<image src="/img/API-REST.png" alt="Esquema de una API-REST">
+![API REST](/img/API-REST.png)
 
 Un **servicio REST** es un tipo de servicio web que se basa en la arquitectura REST. Es decir, es un servicio que sigue los principios de REST, 
 - como el uso de URIs (Uniform Resource Identifiers) para identificar recursos,
