@@ -18,7 +18,7 @@ Un **servicio REST** es un tipo de servicio web que se basa en la arquitectura R
 - el uso de métodos HTTP (GET, POST, PUT, DELETE, etc.) para realizar operaciones sobre esos recursos,
 - y el uso de formatos de datos estándar como JSON o XML para intercambiar información.
 
-**API-CNIG** provee de un servicio REST que, mediante una URL, permite construir un visualizado.
+**API-CNIG** provee de un servicio REST que, mediante una URL, permite construir un visor web.
 
    
 <iframe 
