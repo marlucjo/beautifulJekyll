@@ -1,5 +1,8 @@
 remote_theme: daattali/beautiful-jekyll@6.0.1
 
+mermaid:
+  src: 'https://unpkg.com/mermaid@8.1.0/dist/mermaid.min.js'
+
 ###########################################################
 ### Welcome to Beautiful Jekyll!
 ### This config file is meant for settings that affect your entire website. When you first
