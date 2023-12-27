@@ -8,6 +8,16 @@ share-img: /assets/img/path.jpg
 tags: [API]
 author: marlucjo
 ---
+
+Una [**API-REST**](https://mannhowie.com/rest-api) (*Application Programming Interface - Representational State Transfer*) es un conjunto de reglas y protocolos que permiten la comunicación entre diferentes aplicaciones a través de la red.
+
+Un **servicio REST** es un tipo de servicio web que se basa en la arquitectura REST. Es decir, es un servicio que sigue los principios de REST, 
+- como el uso de URIs (Uniform Resource Identifiers) para identificar recursos,
+- el uso de métodos HTTP (GET, POST, PUT, DELETE, etc.) para realizar operaciones sobre esos recursos,
+- y el uso de formatos de datos estándar como JSON o XML para intercambiar información.
+
+**API-CNIG** provee de un servicio REST que, mediante una URL, permite construir un visualizado.
+
    
 <iframe 
   id="CapaRaster" 
