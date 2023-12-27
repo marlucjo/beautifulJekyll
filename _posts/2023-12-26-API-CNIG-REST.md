@@ -3,7 +3,7 @@ layout: post
 title: API-REST
 subtitle: Visor web
 cover-img: https://iruelas.files.wordpress.com/2022/05/20220430_2057446536397396045096960.jpg
-thumbnail-img: https://www.amcharts.com/wp-content/uploads/2018/09/GeoJSON.png
+thumbnail-img: /img/API-REST.png
 share-img: /assets/img/path.jpg
 tags: [API]
 author: marlucjo
