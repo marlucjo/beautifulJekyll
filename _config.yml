@@ -28,7 +28,7 @@ navbar-links:
     - Learn markdown: "https://www.markdowntutorial.com/"
     - Mermaid: "https://jackgruber.github.io/2021-05-09-Embed-Mermaid-in-Jekyll-without-plugin/"
   Author's home: "https://iruelas.wordpress.com"
-  Page01: "/_pages/a"
+  Page01: "/pages/a"
 
 ################
 # --- Logo --- #
