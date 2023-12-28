@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 permalink: "sitemap"
 title: Sitemap
 show-avatar: true
