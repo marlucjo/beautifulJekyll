@@ -30,6 +30,7 @@ navbar-links:
     - Mermaid API: "/pages/mermaidAPI"
   Author's home: "https://iruelas.wordpress.com"
   Search: "pages/search"
+  Sitemap: "pages/sitemap"
 
 ################
 # --- Logo --- #
