@@ -27,8 +27,8 @@ navbar-links:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
     - Mermaid: "https://jackgruber.github.io/2021-05-09-Embed-Mermaid-in-Jekyll-without-plugin/"
+    - Mermaid API: "/pages/mermaidAPI"
   Author's home: "https://iruelas.wordpress.com"
-  Page01: "/pages/a"
 
 ################
 # --- Logo --- #
