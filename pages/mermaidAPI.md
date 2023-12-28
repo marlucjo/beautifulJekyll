@@ -2,6 +2,7 @@
 layout: page
 permalink: "/pages/mermaidAPI"
 title: Mermaid API
+tags: [Mermaid]
 ---
 
 <html>
