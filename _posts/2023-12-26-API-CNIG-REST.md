@@ -11,7 +11,7 @@ author: marlucjo
 
 Una [**API-REST**](https://mannhowie.com/rest-api) (*Application Programming Interface - Representational State Transfer*) es un conjunto de reglas y protocolos que permiten la comunicación entre diferentes aplicaciones a través de la red.
 
-![API REST](../img/url1.png)
+[![API REST](../img/url1.png)](https://codepen.io/marlucjo/pen/gOErebZ)
 
 Un **servicio REST** es un tipo de servicio web que se basa en la arquitectura REST. Es decir, es un servicio que sigue los principios de REST, 
 - como el uso de URIs (Uniform Resource Identifiers) para identificar recursos,
@@ -28,5 +28,7 @@ Un **servicio REST** es un tipo de servicio web que se basa en la arquitectura R
   height="500"
    src="https://componentes.cnig.es/api-core/?layers=WMS*Minutas_cartogr%C3%A1ficas*https://www.ign.es/wms/minutas-cartograficas*Minutas*true*false**1.3.0*true*true*false,WMTS*https://www.ign.es/wmts/primera-edicion-mtn*catastrones*GoogleMapsCompatible*WMTSMapaRaster*true*image/jpeg*true*true*false,WMS*Montes_de_UP*https://idecyl.jcyl.es/geoserver/ps/wms*znie_cyl_montes_mup*true*false*1.3.0*true*true*true,WMS*V%C3%ADas_pecuarias_CyL_ejes*https://idecyl.jcyl.es/geoserver/am/wms*znie_cyl_vvpp_ejes*true*false*1.3.0*true*true*true,WMS*Cormarcas_forestales*https://idecyl.jcyl.es/geoserver/su/wms*dt_amb_cyl_comarca*true*false*1.3.0*true*true*true&zoom=8&center=-530658,5105352*false&controls=scaleline,panzoom,panzoombar,rotate,backgroundlayers,location&plugins=fulltoc,vectors,ignsearchlocator,information,measurebar,mousesrs,popup,sharemap">
 </iframe>
+
+
 
 
