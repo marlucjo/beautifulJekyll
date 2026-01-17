@@ -2,8 +2,9 @@
 layout: post
 title: API-REST-PY
 subtitle: Visor web desde un script de python
-cover-img: https://iruelas.files.wordpress.com/2022/05/20220430_2057446536397396045096960.jpg
-thumbnail-img: /img/API-REST.png
+cover-img: 
+https://iruelas.wordpress.com/wp-content/uploads/2012/03/12.gif
+thumbnail-img: https://iruelas.wordpress.com/wp-content/uploads/2012/03/9.gif
 share-img: /assets/img/path.jpg
 tags: [API]
 author: marlucjo
